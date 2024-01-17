@@ -5,6 +5,7 @@
 - https://aigrant.org/
 - https://dcgross.com/
 - https://sfcompute.com/
+- https://circlelabs.xyz/
 - https://alexgajewski.org/
 - https://www.balenciaga.com/
 - https://perfectmotherfuckingwebsite.com/
