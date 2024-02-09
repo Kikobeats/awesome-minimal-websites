@@ -8,5 +8,6 @@
 - https://circlelabs.xyz/
 - https://alexgajewski.org/
 - https://www.balenciaga.com/
+- https://bellard.org/quickjs/
 - https://perfectmotherfuckingwebsite.com/
 - https://www.stripe.press/recommended/design-books.html/
