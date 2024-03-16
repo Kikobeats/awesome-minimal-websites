@@ -11,5 +11,6 @@
 - https://alexgajewski.org/
 - https://www.balenciaga.com/
 - https://bellard.org/quickjs/
+- https://physicalintelligence.company/
 - https://perfectmotherfuckingwebsite.com/
 - https://www.stripe.press/recommended/design-books.html/
