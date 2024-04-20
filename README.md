@@ -9,6 +9,7 @@
 - https://sfcompute.com/
 - https://circlelabs.xyz/
 - https://alexgajewski.org/
+- https://ajkprojects.com/
 - https://www.balenciaga.com/
 - https://bellard.org/quickjs/
 - https://physicalintelligence.company/
