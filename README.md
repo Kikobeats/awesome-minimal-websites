@@ -9,8 +9,9 @@
 - https://andromeda.ai/
 - https://sfcompute.com/
 - https://circlelabs.xyz/
-- https://alexgajewski.org/
 - https://ajkprojects.com/
+- https://alexgajewski.org/
+- https://awesomekling.com/
 - https://www.balenciaga.com/
 - https://bellard.org/quickjs/
 - https://physicalintelligence.company/
