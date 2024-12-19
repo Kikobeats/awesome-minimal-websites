@@ -5,6 +5,7 @@
 - https://nat.org/
 - https://nfdg.com/
 - https://aigrant.org/
+- https://tinygrad.org/
 - https://dcgross.com/
 - https://andromeda.ai/
 - https://sfcompute.com/
